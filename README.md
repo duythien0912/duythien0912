@@ -1,4 +1,4 @@
-### Hi there 👋
+### Xin chao, i am Duy Thien 🙋‍♂️
 
 <!--
 **duythien0912/duythien0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
