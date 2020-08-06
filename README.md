@@ -45,6 +45,11 @@
 [youtube]: https://www.youtube.com/channel/UCGV-5TpGUsQPU2buHcEYuyA
 [instagram]: https://www.instagram.com/d_ythien/
 [linkedin]: https://www.linkedin.com/in/duythien0912/
+[webdevplaylist]: #
+[jsplaylist]: #
+[cssplaylist]: #
+[reactplaylist]: #
+
 <!--
 
 - 🔭 I’m currently working on ...
