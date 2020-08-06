@@ -6,7 +6,6 @@
 - 👯 I’m looking new change
 - ⚡ Fun fact: I love to play EDM music
 
-<br />
 <img align="left" alt="duythien0912's Github Stats" src="https://github-readme-stats.vercel.app/api?username=duythien0912&show_icons=true&hide_border=true" />
 
 <br />
