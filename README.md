@@ -15,6 +15,12 @@
 [<img align="left" alt="duythien0912 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+<img align="left" alt="duythien0912's Github Stats" src="https://github-readme-stats.vercel.app/api?username=duythien0912&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -37,7 +43,6 @@
 <br />
 <br />
 
-<img align="left" alt="duythien0912's Github Stats" src="https://github-readme-stats.vercel.app/api?username=duythien0912&show_icons=true&hide_border=true" />
 
 
 [website]: https://duythien0912.github.io/myblog/
