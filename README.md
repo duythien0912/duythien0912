@@ -1,4 +1,4 @@
-### Xin chao, i am Duy Thien 🙋‍♂️
+### Xin chao, I am Duy Thien 🙋‍♂️
 
 ## I'm a Learner and Developer!
 - 🌱 I’m currently learning everything 🤣
