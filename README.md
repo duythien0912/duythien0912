@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Duy Thien, a full-time full-stack developer 👨‍💻 🚀</div>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+- 🔭 I’m currently working on [Flutter Zalo login](https://github.com/duythien0912/flutter_zalo_login)
 
 - 🌱 I’m currently learning everything
 
