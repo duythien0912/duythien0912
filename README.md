@@ -19,9 +19,10 @@
 [<img align="left" alt="duythien0912 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-
+<div>
 <br />
 <br />
+</div>
 
 ### Languages and Tools:
 
