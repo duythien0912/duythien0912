@@ -90,12 +90,12 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=duythien0912&show_icons=true&count_private=true" align="center" /></div>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=duythien0912&&style=flat-square" align="center" />
 </div>
 
 <br />
