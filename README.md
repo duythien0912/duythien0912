@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 100px" />
 </div>
 
 ### <div align="center">I'm Duy Thien, a full-time full-stack developer 👨‍💻 🚀</div>
