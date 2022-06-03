@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 100px" />
 </div>
 
-### <div align="center">I'm Duy Thien, a full-time full-stack developer 👨‍💻 🚀</div>
+### <div align="center">I'm Duy Thien, a Flutter developer 👨‍💻 🚀</div>
 
 - 🔭 I’m currently working on [Flutter Zalo login](https://github.com/duythien0912/flutter_zalo_login)
 
