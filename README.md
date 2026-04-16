@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Duy Thien, a Flutter developer 👨‍💻 🚀</div>
 
-- 🔭 Check my plugin [Flutter Zalo login](https://github.com/duythien0912/flutter_zalo_login)
+- 🔭 Check my plugin [Flutter Zalo login](https://github.com/duythien0912/flutter_zalo_login), [Magika Dart](https://github.com/duythien0912/magika_dart)
 
 - 🌱 I’m currently learning everything
 
