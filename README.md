@@ -1,19 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 100px" />
-</div>
 
-### <div align="center">I'm Duy Thien, a Flutter developer 👨‍💻 🚀</div>
+### <div align="left">I'm Duy Thien, a Flutter developer 👨‍💻 🚀</div>
 
-- 🔭 Check my plugin [Flutter Zalo login](https://github.com/duythien0912/flutter_zalo_login), [Magika Dart](https://github.com/duythien0912/magika_dart)
-
+- 🔭 Check my plugin: [Flutter Zalo login](https://github.com/duythien0912/flutter_zalo_login), [Magika Dart](https://github.com/duythien0912/magika_dart)
 - 🌱 I’m currently learning everything
-
 - ❓ Ask me about anything related to Flutter and related technologies
-
 - ⚡ Fun fact: I use tabs over spaces
-
 <br/>
-
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
